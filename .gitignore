@@ -1,0 +1,10 @@
+# .gitkeep file
+!.gitkeep
+
+# compile directory
+/bin/
+
+# eclipse settings
+/.settings/
+/.classpath
+/.project
